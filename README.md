@@ -2,6 +2,3 @@ O HiSenior é um projeto criado para buscar remédios em postos de saúde idosos
 
 # Link do site: https://fbmaia.github.io/Hisenior_Site/home.html
 
-INTEGRANTES DO PROJETO:
-
-![NomesIntegrantes](https://user-images.githubusercontent.com/81167557/118134292-24677580-b3d8-11eb-9270-133cbe7574c2.jpg)
