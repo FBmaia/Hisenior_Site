@@ -1,0 +1,183 @@
+        * {
+            font-family: 'Nunito', sans-serif;
+        }
+        
+        .inputt {
+            width: 50%;
+        }
+        
+        .bg-preto {
+            background-color: #333533;
+        }
+        
+        .cor-fun {
+            background-color: #AAF683;
+        }
+        
+        .text-verde {
+            color: #AAF683;
+        }
+        
+        h1 {
+            padding: 90px;
+            background-color: #333533;
+            text-align: center;
+            color: #AAF683;
+            font-family: 'Nunito', sans-serif;
+            font-weight: bolder;
+            font-size: 70px;
+        }
+        
+        header {
+            background-color: #aaf683;
+        }
+        
+        .navbar-brand {
+            font-size: 38px;
+            font-weight: 600;
+            color: #333533 !important;
+        }
+        
+        .nav-item {
+            font-size: 24px;
+        }
+        
+        .nav-item b {
+            font-weight: 900;
+        }
+        
+        .bg-segunda {
+            background-color: #333533;
+        }
+        
+        .bg-primeira {
+            background-color: #aaf683;
+        }
+        
+        .entrar {
+            font-weight: 700;
+        }
+        
+        .hrtitulo {
+            margin-top: 140px;
+            opacity: 10px !important;
+        }
+        
+        .label {
+            color: rgb(43, 43, 43);
+            width: 100%;
+            font-size: 20px;
+            padding-top: 10px;
+            font-family: 'Nunito', sans-serif;
+            font-weight: bold;
+        }
+        
+        input {
+            padding: 1px;
+            width: 50%;
+        }
+        
+        .input-radio {
+            width: auto;
+        }
+        
+        select {
+            width: 100%;
+        }
+        
+        div h1 {
+            font-size: 80px;
+            font-family: 'Nunito', sans-serif;
+            font-weight: bold;
+            color: #AAF683;
+        }
+        
+        .l1 {
+            font-size: 24px;
+        }
+        
+        hr {
+            width: 50;
+            size: 50;
+            opacity: 1;
+        }
+        
+        .pq1 {
+            font-weight: 700;
+            font-size: 36px;
+            color: black;
+        }
+        
+        .txtVoluntario {
+            font-size: 24px;
+            font-weight: 400;
+        }
+        
+        .requisitos {
+            margin-top: 45px;
+            margin-bottom: 72px;
+        }
+        
+        .btn {
+            text-align: center !important;
+            background-color: #333533;
+            color: #AAF683;
+            width: 350px;
+            padding: 15px 20px;
+            font-size: 30px;
+            border-radius: 6px;
+        }
+        
+        .alinha {
+            text-align: center;
+        }
+        
+        .bg-preto {
+            background-color: #2c2e2c;
+        }
+        
+        .bg-preto2 {
+            background-color: #494a49;
+        }
+        
+        .hrrodape {
+            width: 190px;
+            height: 3px !important;
+            align-items: center;
+            background-color: #aaf683 !important;
+            opacity: 1 !important;
+        }
+        
+        .iconrodape {
+            font-size: 30px;
+            padding-left: 10px;
+            height: 40px;
+            margin-bottom: 10px;
+        }
+        
+        .arodape {
+            font-size: 20px;
+            padding-left: 55px;
+            color: rgb(236, 236, 236);
+            list-style: none !important;
+            text-decoration: none;
+            text-align: center;
+            padding-left: 0px !important;
+            margin-right: 40px;
+        }
+        
+        a:hover {
+            color: #aaf683;
+        }
+        
+        h6 {
+            font-size: 23px;
+        }
+        
+        .rodape {
+            background-color: #1c1d1c;
+            margin: auto;
+            width: 100%;
+            bottom: 0;
+            margin-top: 70px;
+        }

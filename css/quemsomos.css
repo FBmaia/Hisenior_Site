@@ -1,0 +1,153 @@
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+header {
+    background-color: #AAF683;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 38px !important;
+    color: #333533 !important;
+}
+
+.nav-link {
+    font-size: 24px;
+}
+
+.btn-primary {
+    background-color: #333533 !important;
+    color: #AAF683 !important;
+    font-size: 24px !important;
+    font-weight: 600 !important;
+}
+
+.titulo {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.sub-titulo {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.texto {
+    text-align: justify;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+hr {
+    width: 70px !important;
+    height: 6px !important;
+    color: #333533;
+    border-radius: 4px;
+    opacity: 1 !important;
+}
+
+.hr2 {
+    width: 214px !important;
+    height: 6px !important;
+    color: #AAF683;
+    opacity: 1;
+}
+
+.video {
+    border-radius: 15px;
+}
+
+.fotointegrante {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.fotointegrante2 {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.titulointegrante {
+    text-align: right;
+    font-weight: 700;
+    font-size: 24px;
+    color: #333533;
+    margin-right: 10px;
+}
+
+.titulointegrante2 {
+    text-align: left;
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+.sub-titulointegrante {
+    text-align: right;
+    font-weight: 400;
+    font-size: 24px;
+    color: #333533;
+    margin-right: 10px;
+}
+
+.sub-titulointegrante2 {
+    text-align: left;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+.textointegrante {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.textointegrante2 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.icone-github {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.icone-github2 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.icone-linkedin {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.icone-linkedin2 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.icone-gmail {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.icone-gmail2 {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.mt-70 {
+    margin-top: 150px;
+}
+
+.bgintegrante {
+    background-color: #AAF683;
+    border-radius: 15px;
+}
+
+.bgintegrante2 {
+    background-color: #AAF683;
+    border-radius: 15px;
+}

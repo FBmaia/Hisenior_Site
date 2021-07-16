@@ -1,0 +1,32 @@
+.bannerrotativo {
+    width: 100%;
+    height: 300px;
+}
+
+.foto1banner {
+    text-align: center;
+    margin-top: 1px;
+}
+
+.textobanner {
+	font-size:23px;
+}
+
+.nivo-caption {
+    position: absolute;
+    left: 0px;
+    top: 30%;
+    color: #fff;
+    width: 40%;
+    z-index: 8;
+    background-color: transparent;
+    padding: 5px 10px;
+    opacity: 0.8;
+    display: none;
+    -moz-opacity: 0.8;
+    filter: alpha(opacity=8);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-shadow: 2px 0px 4px #000;
+}
